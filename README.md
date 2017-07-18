@@ -1,0 +1,1 @@
+Sklep intenetowy wykorzystujący Spring Boot, MVC, Data i Security.
